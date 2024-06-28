@@ -1,0 +1,93 @@
+------------------------------
+Prueba 
+Tasa de aprendizaje: 0.00001
+Numero de batch: 32
+Numero de epocas: 50
+Tiempo: 19.53 seg
+Error de entrenamiento minimo: 1.410065681728253
+Error de prueba minimo: 1.573743231021441
+------------------------------
+
+------------------------------
+Prueba 
+Tasa de aprendizaje: 0.00001
+Numero de batch: 32
+Numero de epocas: 100
+Tiempo: 32.02 seg
+Error de entrenamiento minimo: 1.3477565686247277
+Error de prueba minimo: 1.624110279557033
+------------------------------
+
+------------------------------
+Prueba 
+Tasa de aprendizaje: 0.00001
+Numero de batch: 16
+Numero de epocas: 50
+Tiempo: 20.46
+Error de entrenamiento minimo: 1.3850727379242547
+Error de prueba minimo: 1.584760423845206
+------------------------------
+
+------------------------------
+Prueba 
+Tasa de aprendizaje: 0.000001
+Numero de batch: 16
+Numero de epocas: 100
+Tiempo:40.53
+Error de entrenamiento minimo: 1.33028006674481
+Error de prueba minimo: 1.653594615654306
+------------------------------
+
+------------------------------
+Prueba 
+Tasa de aprendizaje:0.000001
+Numero de batch: 16
+Numero de epocas: 50
+Tiempo: 21:00
+Error de entrenamiento minimo: 1.6169490832810527
+Error de prueba minimo: 1.6524961821925943
+------------------------------
+
+------------------------------
+Prueba 
+Tasa de aprendizaje:
+Numero de batch: 
+Numero de epocas:
+Tiempo: 
+Error de entrenamiento minimo: 
+Error de prueba minimo: 
+------------------------------
+
+
+------------------------------
+Prueba 
+Tasa de aprendizaje:
+Numero de batch: 
+Numero de epocas:
+Tiempo: 
+Error de entrenamiento minimo: 
+Error de prueba minimo: 
+------------------------------
+
+
+------------------------------
+Prueba 
+Tasa de aprendizaje:
+Numero de batch: 
+Numero de epocas:
+Tiempo: 
+Error de entrenamiento minimo: 
+Error de prueba minimo: 
+------------------------------
+
+
+------------------------------
+Prueba 
+Tasa de aprendizaje:
+Numero de batch: 
+Numero de epocas:
+Tiempo: 
+Error de entrenamiento minimo: 
+Error de prueba minimo: 
+------------------------------
+
